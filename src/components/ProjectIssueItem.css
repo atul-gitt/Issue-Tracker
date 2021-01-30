@@ -1,0 +1,20 @@
+.issue-title {
+  color: orange;
+}
+
+.priority {
+  color: white;
+  text-transform: capitalize;
+}
+
+.low {
+  background-color: skyblue;
+}
+
+.medium {
+  background-color: rgba(255, 255, 0, 0.541);
+}
+
+.high {
+  background-color: red;
+}
